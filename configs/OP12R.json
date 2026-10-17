@@ -24,7 +24,7 @@
     "os": "OxygenOS 16",
     "os_short": "oos16"
   },
-  "android_version": "android13",
-  "kernel_version": "5.15",
+  "android_version": "android14",
+  "kernel_version": "6.1",
   "hmbird": false
 }
